@@ -1,17 +1,9 @@
 # ROCK-PAPER-SCISSORS
 Two 'rock paper scissors' games created with with python language. One is a simple version of the game. The other is an advanced and detailed version that implements some AI
 
-
-
-
-
-
-
-# SILLY SENTENCES
-
 ## Getting Started
-**Silly Sentences**  
-random silly sentences that are grammatically correct 
+**ROCK-PAPER-SCISSORS**  
+play good ol' rock paper scissors
 
 ## Pre-requisites
 
@@ -20,10 +12,10 @@ random silly sentences that are grammatically correct
 
 ## Usage
 
-Run silly.py instead  
-words.py is imported in silly.py, you don't have to run words.py
+Run either file
 Run it like any python program from CLI
-`python silly.py`
+`python rps.py`
+`python rps_simple.py`
 
 ## Support
 
@@ -32,7 +24,7 @@ Run it like any python program from CLI
 - Stack Overflow: http://stackoverflow.com/questions/tagged/python
 
 Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+submitting a pull request through GitHub.
 
 ## License
 
