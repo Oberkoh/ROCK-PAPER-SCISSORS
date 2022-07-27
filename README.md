@@ -17,6 +17,15 @@ Run it like any python program from CLI
 `python rps.py`
 `python rps_simple.py`
 
+## Playing Styles
+- Random Player
+- Reflect Player
+- Circle Player  
+
+These Playing styles are only available on `rps.py`  
+Any of these styles are chosen at random when Playing  
+Against the computer
+
 ## Support
 
 - Tutorials: https://www.learnpython.org/
